@@ -17,3 +17,10 @@
 ## 진도표
 
 Week 1: Deep Learning Basics + Linear/Logarithmic Regression
+
+Graph Build한 다음 Session을 실행 한 다음, 그 결과가 Graph가 출력됩니다.
+
+### Tensorflow 1.14 vs TensorFlow 2.0
+
+- `tf.random_normal(shape)` => `tf.random.normal(shape)`
+- `tf.train.GradientDescentOptimizer(learningrate)` => 
